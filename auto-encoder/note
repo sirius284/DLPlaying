@@ -1,0 +1,8 @@
+1 simplest possible autoencoder 
+50 epoch loss: 0.1068 - val_loss: 0.1051
+
+2 deep autoencoder
+100 epoch loss: 0.0974 - val_loss: 0.0966
+
+3 convolutional deep autoencoder
+100 epoch loss: 0.0958 - val_loss: 0.0946
